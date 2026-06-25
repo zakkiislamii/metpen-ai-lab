@@ -5,7 +5,7 @@
 
 Menggunakan AI untuk menjelaskan kode membantu saya memahami logika, fungsi, dan cara kerja program sehingga saya tetap memiliki kendali terhadap proses analisis yang dilakukan. AI berperan sebagai tools yang mendukung pemahaman konsep.
 
-Jika, menggunakan AI untuk menghasilkan kode tanpa memahaminya berisiko menimbulkan kesalahan yang tidak terdeteksi, sulit melakukan debugging, serta membuat saya tidak dapat menjelaskan atau mempertanggungjawabkan hasil pekerjaan tersebut. Dalam kasus ini, AI hanya digunakan sebagai penghasil solusi tanpa adanya pemahaman dari pengguna.
+Jika menggunakan AI untuk menghasilkan kode tanpa memahaminya berisiko menimbulkan kesalahan yang tidak terdeteksi, sulit melakukan debugging, serta membuat saya tidak dapat menjelaskan atau mempertanggungjawabkan hasil pekerjaan tersebut. Dalam kasus ini, AI hanya digunakan sebagai penghasil solusi tanpa adanya pemahaman dari pengguna.
 
 ## Pertanyaan 2
 **Bayangkan Anda sudah selesai analisis di notebook ini. Kapan Anda perlu mengungkap kepada dosen bahwa Anda menggunakan AI asisten?**
